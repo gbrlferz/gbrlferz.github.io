@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cleaning on gabiru.art</title>
+    <link>https://www.gabiru.art/tags/cleaning/</link>
+    <description>Recent content in cleaning on gabiru.art</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.gabiru.art/tags/cleaning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Optimizing your daily fur cleaning routine</title>
+      <link>https://www.gabiru.art/garden/evergreen_example/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.gabiru.art/garden/evergreen_example/</guid>
+      <description>TestLorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quam metus, maximus ac pharetra non, molestie ut purus. Nunc eros nisl, congue ut mattis eget, suscipit a quam. Praesent nisi enim, semper a turpis sit amet, pharetra placerat dolor. Praesent quis dui pulvinar, molestie urna a, facilisis nisi. Curabitur rhoncus hendrerit dapibus. Maecenas dignissim dolor lorem, non efficitur ante vulputate nec. Nunc ipsum purus, aliquam id ornare non, fringilla vel nisi.</description>
+    </item>
+  </channel>
+</rss>

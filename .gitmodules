@@ -1,0 +1,6 @@
+[submodule "gabiru/themes/hugo-theme-console"]
+	path = gabiru/themes/hugo-theme-console
+	url = https://github.com/mrmierzejewski/hugo-theme-console.git
+[submodule "gabiru/themes/themes/hugo-digital-garden-theme"]
+	path = gabiru/themes/themes/hugo-digital-garden-theme
+	url = https://github.com/paulmartins/hugo-digital-garden-theme.git
