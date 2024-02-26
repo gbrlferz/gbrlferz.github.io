@@ -2,21 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gabiru.art/en/textos/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://gabiru.art/textos/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gabiru.art/en/textos/"
-                />
-  </url><url>
     <loc>https://gabiru.art/en/tags/example/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-26T18:17:58-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -29,7 +16,7 @@
                 />
   </url><url>
     <loc>https://gabiru.art/en/tags/guide/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-26T18:17:58-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -41,21 +28,8 @@
                 href="https://gabiru.art/en/tags/guide/"
                 />
   </url><url>
-    <loc>https://gabiru.art/en/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://gabiru.art/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gabiru.art/en/"
-                />
-  </url><url>
     <loc>https://gabiru.art/en/tags/markdown/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-26T18:17:58-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -68,7 +42,7 @@
                 />
   </url><url>
     <loc>https://gabiru.art/en/textos/markdown/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-26T18:17:58-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -81,7 +55,7 @@
                 />
   </url><url>
     <loc>https://gabiru.art/en/tags/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-26T18:17:58-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -94,6 +68,7 @@
                 />
   </url><url>
     <loc>https://gabiru.art/en/sobre/</loc>
+    <lastmod>2024-02-26T18:17:58-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -103,6 +78,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://gabiru.art/en/sobre/"
+                />
+  </url><url>
+    <loc>https://gabiru.art/en/textos/</loc>
+    <lastmod>2024-02-26T18:17:58-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://gabiru.art/textos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gabiru.art/en/textos/"
                 />
   </url><url>
     <loc>https://gabiru.art/en/categories/</loc>
@@ -115,6 +103,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://gabiru.art/en/categories/"
+                />
+  </url><url>
+    <loc>https://gabiru.art/en/</loc>
+    <lastmod>2024-02-26T18:17:58-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://gabiru.art/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gabiru.art/en/"
                 />
   </url>
 </urlset>
