@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gabiru</title>
     <link>https://gbrlferz.github.io/</link>
@@ -13,8 +13,7 @@
       <link>https://gbrlferz.github.io/posts/post/</link>
       <pubDate>Mon, 26 Feb 2024 14:06:54 -0300</pubDate>
       <guid>https://gbrlferz.github.io/posts/post/</guid>
-      <description>AAAAAAAAAAAAAAAAAA
-OIS </description>
+      <description>AAAAAAAAAAAAAAAAAA&#xA;OIS </description>
     </item>
   </channel>
 </rss>
