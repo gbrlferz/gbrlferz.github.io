@@ -1,5 +1,7 @@
 ---
 title: Lasanha
+sidebar:
+    exclude: true
 ---
 
 

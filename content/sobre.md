@@ -1,5 +1,5 @@
 ---
-title: Gabiru
+title: Sobre
 type: about
 ---
 

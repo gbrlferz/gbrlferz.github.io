@@ -1,6 +1,8 @@
 ---
 title: Asteroids & Steroids
 layout: wide
+sidebar:
+    exclude: true
 ---
 
 </br>

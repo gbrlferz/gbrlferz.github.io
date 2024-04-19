@@ -1,6 +1,5 @@
 ---
-title: Frozen Blood
-description: "Projetos que fiz e estou fazendo"
+title: Mushrun
 ---
 
 EEEEsse foi o primeiro jogo que terminei, numa game jam que durou nove dias.   

@@ -1,11 +1,8 @@
 ---
 title: Projetos
 description: "Projetos que fiz e estou fazendo"
-layout: default
 cascade:
     type: default
-sidebar:
-    exclude: true
 ---
 
 ## Jogos
