@@ -1,17 +1,137 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site – My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Gabiru – Gabiru</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Gabiru</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>pt</language>
+    <lastBuildDate>Sun, 14 Apr 2024 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     
       
       
     
+    
+    <item>
+      <title>Ferramentas</title>
+      <link>//localhost:1313/textos/outros/ferramentas/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/textos/outros/ferramentas/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Sempre que eu conheço algum desenvolvedor,&lt;/p&gt;
+&lt;h2&gt;Gráficos&lt;span class=&#34;absolute -mt-20&#34; id=&#34;gráficos&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#gr%c3%a1ficos&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Blender&lt;span class=&#34;absolute -mt-20&#34; id=&#34;blender&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#blender&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h3&gt;Aseprite&lt;span class=&#34;absolute -mt-20&#34; id=&#34;aseprite&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#aseprite&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h2&gt;Organição&lt;span class=&#34;absolute -mt-20&#34; id=&#34;organição&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#organi%c3%a7%c3%a3o&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Obsidian&lt;span class=&#34;absolute -mt-20&#34; id=&#34;obsidian&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#obsidian&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h3&gt;Codecks&lt;span class=&#34;absolute -mt-20&#34; id=&#34;codecks&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#codecks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h2&gt;Engine&lt;span class=&#34;absolute -mt-20&#34; id=&#34;engine&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#engine&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Unity&lt;span class=&#34;absolute -mt-20&#34; id=&#34;unity&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#unity&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h3&gt;PICO-8&lt;span class=&#34;absolute -mt-20&#34; id=&#34;pico-8&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#pico-8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h2&gt;Programação&lt;span class=&#34;absolute -mt-20&#34; id=&#34;programação&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#programa%c3%a7%c3%a3o&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;VSCode&lt;span class=&#34;absolute -mt-20&#34; id=&#34;vscode&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#vscode&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h3&gt;NeoVim&lt;span class=&#34;absolute -mt-20&#34; id=&#34;neovim&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#neovim&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h2&gt;Música&lt;span class=&#34;absolute -mt-20&#34; id=&#34;música&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#m%c3%basica&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;BitWig Studio&lt;span class=&#34;absolute -mt-20&#34; id=&#34;bitwig-studio&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#bitwig-studio&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h2&gt;Som&lt;span class=&#34;absolute -mt-20&#34; id=&#34;som&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#som&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Reaper&lt;span class=&#34;absolute -mt-20&#34; id=&#34;reaper&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#reaper&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Milk inside a bag of milk inside a bag of milk</title>
+      <link>//localhost:1313/textos/jogos/milk-inside-a-bag-of-milk/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/textos/jogos/milk-inside-a-bag-of-milk/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;img src=&#34;https://steamuserimages-a.akamaihd.net/ugc/1839182035496195309/26896CF1B930235BB4B91D5842BFD0EF4F984B11/?imw=5000&amp;amp;imh=5000&amp;amp;ima=fit&amp;amp;impolicy=Letterbox&amp;amp;imcolor=%23000000&amp;amp;letterbox=false&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Quem tem medo de arte abstrata?</title>
+      <link>//localhost:1313/ensaios/arte-abstrata/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/ensaios/arte-abstrata/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;img src=&#34;https://images.saatchiart.com/saatchi/1024168/art/4093721/3163574-TCFJTMFV-7.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Nem todo mundo liga muito pras artes plásticas, mas até quem não se importa tanto, repete algumas opiniões que eu acho bem intrigante.&lt;/p&gt;
+&lt;p&gt;A mais infame de todas talvez seja o &amp;ldquo;isso aí, não é arte&amp;rdquo;, muitas vezes associada com um valor arbitrario que tenta justificar o motivo daquela obra não ser considerada arte.&lt;/p&gt;
+&lt;p&gt;No caso da arte abstrata, é quase impossível olhar pra uma de suas obras e não pensar &amp;ldquo;Isso é só um quadrado preto, até eu conseguiria fazer isso.&amp;rdquo;. E isso pode até ser verdade, mas esse não é sobre isso que eu quero falar.&lt;/p&gt;
+&lt;p&gt;A pintura na sua concepção, era algo mais utilitário do que artístico, ela se desenvolveu não como uma forma de expressão, mas como um meio de retratar a realidade, sejam desenhos em livros cientificos, afrescos numa igreja para atrair (ou botar medo) nos fiéis, ou uma pintura de algum nobre.&lt;/p&gt;
+&lt;p&gt;Ela demorou muito até alcançar o patamar de expressão artística atual.&lt;/p&gt;
+&lt;p&gt;Talvez ela só tenha chegado nesse ponto, quando a utilidade da pintura foi posta em cheque quando em 1826 a primeira fotografia foi tirada, a partir dali, o que antes era preciso anos de ofício e horas para ser executado, podia ser feito com mais realismo do que nunca, por qualquer um, instantaneamente.&lt;/p&gt;
+&lt;p&gt;Olhando agora, vemos que o fim da pintura como ferramenta utilitária, foi na verdade seu renascimento.
+&lt;img src=&#34;https://images.educamaisbrasil.com.br/content/banco_de_imagens/guia-de-estudo/D/renascimento-michelangelo-artes.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Não esse renascimento, esse:
+&lt;img src=&#34;https://www.papeiseparede.com.br/8543-thickbox_default/papel-de-parede-os-girassois-por-van-gogh.jpg.webp&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;A pintura não estava mais presa nas amarrar da realidade, o desafio agora era criar algo novo, agora que já temos como representar a realidade como ela é, como podemos ir além? Não é à toa que pouco tempo depois, vimos nascer artistas como Monet, Van Gogh, Salvador Dalí, Frida Kahlo e&amp;hellip; Pollock?&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://euquedesenhei.com/wp-content/uploads/2019/01/cri_000000223805.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Talvez você, assim como eu, viu arte abstrata pela primeira vez e pensou que… talvez tenhamos ido longe demais, após séculos desenvolvendo essa arte, foi nisso que a gente chegou?&lt;/p&gt;
+&lt;p&gt;Francisco de Goya, um dos maiores pintores da Espanha, era conhecido como o último dos velhos mestres e o primeiro dos modernos. Após ter sofrido um AVC que o deixou com o lado direito do corpo paralisado, morreu em 1828, dois anos após a invenção da fotografia.&lt;/p&gt;
+&lt;p&gt;Em 1792, numa carta escrita para a Real Academia de Belas-Artes de São Francisco, disse: “A natureza confunde e surpreende aqueles que mais a conhecem! Que estátua, ou molde, pode existir que não seja apenas uma cópia da divina natureza? Por mais excelente que seja o artista que a tenha feito, pode ele negar que, colocado-as lado a lado, uma é obra de Deus, e a outra de nossas mãos miseráveis?”&lt;/p&gt;
+&lt;p&gt;Então, na próxima vez que você se deparar com uma obra de arte abstrata, por mais que você ache ela feia ou bonita, por mais que você não enxergue valor artístico nela, talvez, ela seja uma das únicas coisas que realmente, o ser humano &amp;ldquo;criou&amp;rdquo;, e não uma mera cópia.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Bullet in the Brain</title>
+      <link>//localhost:1313/textos/livros/bullet-in-the-brain/</link>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/textos/livros/bullet-in-the-brain/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Você consegue lembrar &lt;em&gt;daquele momento&lt;/em&gt;, que define quem você é hoje?&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/5/57/TobiasWolff.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Texto interessante, um cara que parece ver o mundo em terceira pessoa, mas tá dentro dele. Ou um velho numa crise psicótica, que ao se colocar numa situação impossível, leva uma bala na cabeça.
+Que jeito esquisito e inimaginável de morrer, deve ser bem estranho.
+Quando a gente morre, principalmente de uma forma tão repentina, é comum pensar qual seria nosso último pensamento.
+Provavelmente nenhum, mas gosto da ideia que o texto propõem, talvez a gente pense &lt;em&gt;naquele&lt;/em&gt; momento, que a gente nem se lembra, mas define quem é a gente como pessoa.
+Não tenho a menor ideia qual seria o meu, mas com certeza eu tenho algum.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Poor Things</title>
+      <link>//localhost:1313/textos/filmes/poor-things/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/textos/filmes/poor-things/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;img src=&#34;https://film-grab.com/wp-content/uploads/photo-gallery/Poor_Things_09.jpg?bwg=1709571907&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;É (razoavelmente) fácil entender como um transplante de cérebro pode salver alguém da morte, numa nova “casca”, a pessoa vive. Uma consciência morre, um corpo fica, uma nova consciência é colocada no lugar.&lt;/p&gt;
+&lt;p&gt;Mas isso quer dizer então que a pessoa é, afinal, seu cérebro?&lt;/p&gt;
+&lt;p&gt;O pragmatismo dos personagens desse filme, por mais que divertido às vezes, faz com que eles acabem desviando de questionamentos muito interessantes.&lt;/p&gt;
+&lt;p&gt;No filme “O Grande Truque”, do Nolan, tem uma proposta que leva essa ideia ainda mais a fundo. Naquele mundo, a clonagem completa de um ser humano se tornou possível, outro ser humano idêntico a você, com as mesmas memórias, pensamentos e até o mesmo corpo, podem co-existir, não existe nada em você como indivíduo que te separa daquele outro você… ou será que não?&lt;/p&gt;
+&lt;p&gt;Num mundo onde a Victoria não tivesse pulado daquela ponte, sua vida e da sua filha seguiriam, mas naquele mundo, nenhuma das vidas seguiram, pelo menos não como deveria ser. O homem interveio, como ele sempre tenta fazer, e dai nasceu a Bella, que não é filha, nem mãe, mas uma terceira coisa. Uma ideia MUITO fascinante.&lt;/p&gt;
+&lt;p&gt;Então fiquei bem frustrado quando o filme reconhece isso, mas não discorre mais sobre.&lt;/p&gt;
+&lt;p&gt;Pois se existe algo que consiga definir o que é ser algo, não pode ser o corpo, que pode ser trocado se necessário, nem o cérebro ou consciência, que em teoria pode ser replicado indefinidamente. Tudo isso impossibilita implicar nossa existência materialmente, então seria a alma a única solução para o dilema? Ou nossa continua sensação de existir é só uma ilusão?&lt;/p&gt;
+&lt;p&gt;Chegando no arco final da história, Bella volta para casa após saber da notícia que o God está morrendo. Antes da morte dele, ela decide que vai se casar com o Max, mas no dia do casamento ela é confrontada com o passado da sua mãe, do seu corpo. Curiosa pela história por trás do seu “nascimento”, ela acaba descobrindo que seu pai/marido é cruel e abusivo, e foi essencialmente a causa da sua trágica existência, então ela decide se vingar.&lt;/p&gt;
+&lt;p&gt;A partir daí, quando ela estava com o corpo daquele homem a sua disposição, pensei por um momento que ela fosse salvar o God, do mesmo jeito que ele havia feito com ela, afinal, num mundo onde o corpo não é mais o fator limitante da existência, o que iria impedir como o God vivo indefinidamente? Um cérebro poderia viver para sempre, basta trocar o corpo quando necessário.&lt;/p&gt;
+&lt;p&gt;Mas obviamente não é nada disso que acontece, não acho que isso fosse deixar a história melhor ou nada do tipo, só parece que o filme nem reconhece várias ideias fascinantes que estão presentes nele. Ao invés disso, eles só colocam o cérebro de um bode no corpo do general, toda essa construção para fazer uma piada que nem é lá tão engraçada.&lt;/p&gt;
+&lt;p&gt;Ainda é uma experiência bem divertida, mas o foco geralmente parece pender para coisas simples e fáceis, desperdiçando um monte de ideias mais interessantes e desafiadoras.&lt;/p&gt;
+
+      </description>
+    </item>
     
   </channel>
 </rss>

@@ -1,0 +1,5 @@
+---
+title: Gabiru
+type: about
+---
+

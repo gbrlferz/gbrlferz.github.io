@@ -59,9 +59,9 @@ document.addEventListener('DOMContentLoaded', function () {
   const sidebarContainer = document.querySelector('.sidebar-container');
 
   // Initialize the overlay
-  const overlayClasses = ['hx-fixed', 'hx-inset-0', 'hx-z-10', 'hx-bg-black/80', 'dark:hx-bg-black/60'];
-  overlay.classList.add('hx-bg-transparent');
-  overlay.classList.remove("hx-hidden", ...overlayClasses);
+  const overlayClasses = ['fixed', 'inset-0', 'z-10', 'bg-black/80', 'dark:bg-black/60'];
+  overlay.classList.add('bg-transparent');
+  overlay.classList.remove("hidden", ...overlayClasses);
 
   function toggleMenu() {
     // Toggle the hamburger menu
@@ -72,22 +72,22 @@ document.addEventListener('DOMContentLoaded', function () {
     sidebarContainer.classList.toggle('max-md:[transform:translate3d(0,0,0)]');
 
     // When the menu is open, we want to prevent the body from scrolling
-    document.body.classList.toggle('hx-overflow-hidden');
-    document.body.classList.toggle('md:hx-overflow-auto');
+    document.body.classList.toggle('overflow-hidden');
+    document.body.classList.toggle('md:overflow-auto');
   }
 
   menu.addEventListener('click', (e) => {
     e.preventDefault();
     toggleMenu();
 
-    if (overlay.classList.contains('hx-bg-transparent')) {
+    if (overlay.classList.contains('bg-transparent')) {
       // Show the overlay
       overlay.classList.add(...overlayClasses);
-      overlay.classList.remove('hx-bg-transparent');
+      overlay.classList.remove('bg-transparent');
     } else {
       // Hide the overlay
       overlay.classList.remove(...overlayClasses);
-      overlay.classList.add('hx-bg-transparent');
+      overlay.classList.add('bg-transparent');
     }
   });
 
@@ -97,7 +97,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Hide the overlay
     overlay.classList.remove(...overlayClasses);
-    overlay.classList.add('hx-bg-transparent');
+    overlay.classList.add('bg-transparent');
   });
 });
 
@@ -129,7 +129,7 @@ document.addEventListener('DOMContentLoaded', function () {
     return svg;
   }
 
-  document.querySelectorAll('.hextra-code-copy-btn').forEach(function (button) {
+  document.querySelectorAll('.code-copy-btn').forEach(function (button) {
     // Add copy and success icons
     button.querySelector('.copy-icon')?.appendChild(getCopyIcon());
     button.querySelector('.success-icon')?.appendChild(getSuccessIcon());
@@ -199,7 +199,7 @@ document.querySelectorAll('.tabs-toggle').forEach(function (button) {
       e.preventDefault();
       switcher.dataset.state = switcher.dataset.state === 'open' ? 'closed' : 'open';
       const optionsElement = switcher.nextElementSibling;
-      optionsElement.classList.toggle('hx-hidden');
+      optionsElement.classList.toggle('hidden');
 
       // Calculate position of language options element
       const switcherRect = switcher.getBoundingClientRect();
@@ -215,7 +215,7 @@ document.querySelectorAll('.tabs-toggle').forEach(function (button) {
       languageSwitchers.forEach((switcher) => {
         switcher.dataset.state = 'closed';
         const optionsElement = switcher.nextElementSibling;
-        optionsElement.classList.add('hx-hidden');
+        optionsElement.classList.add('hidden');
       });
     }
   });
@@ -258,9 +258,9 @@ document.addEventListener("DOMContentLoaded", function () {
   if (backToTop) {
     document.addEventListener("scroll", (e) => {
       if (window.scrollY > 300) {
-        backToTop.classList.remove("hx-opacity-0");
+        backToTop.classList.remove("opacity-0");
       } else {
-        backToTop.classList.add("hx-opacity-0");
+        backToTop.classList.add("opacity-0");
       }
     });
   }
