@@ -1,11 +1,10 @@
 ---
 title: Currículo
-layout: wide
 ---
 
 </br>
 
-<div align="center"> <iframe src="https://drive.google.com/file/d/1gGiZGP0WgphpuUGsCs-OH9gt6bcPYend/preview" width="720" height="980" allow="autoplay"></iframe> </div>
+<div align="center"> <iframe src="https://drive.google.com/file/d/1gGiZGP0WgphpuUGsCs-OH9gt6bcPYend/preview" width="100%" height="860" allow="autoplay"></iframe> </div>
 
 </br>
 
