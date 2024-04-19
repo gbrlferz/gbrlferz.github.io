@@ -1,6 +1,9 @@
 ---
 title: Projetos
 description: "Projetos que fiz e estou fazendo"
+layout: default
+cascade:
+    type: default
 ---
 
 ## Jogos
