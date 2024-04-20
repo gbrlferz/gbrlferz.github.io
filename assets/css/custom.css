@@ -5,6 +5,10 @@
 
 .vertical {
   aspect-ratio: 9/16;
-  min-width: 50%;
-  max-width: 100%;
+  width: 100%;
+}
+
+.pdf {
+  aspect-ratio: 17/22;
+  width: 100%;
 }
