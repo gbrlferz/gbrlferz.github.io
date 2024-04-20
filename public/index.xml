@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gabiru – Gabiru</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content on Gabiru</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
     <lastBuildDate>Sun, 14 Apr 2024 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Ferramentas</title>
-      <link>//localhost:1313/textos/outros/ferramentas/</link>
+      <link>/textos/outros/ferramentas/</link>
       <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/textos/outros/ferramentas/</guid>
+      <guid>/textos/outros/ferramentas/</guid>
       <description>
         
         
@@ -46,10 +46,10 @@
     
     <item>
       <title>Milk inside a bag of milk inside a bag of milk</title>
-      <link>//localhost:1313/textos/jogos/milk-inside-a-bag-of-milk/</link>
+      <link>/textos/jogos/milk-inside-a-bag-of-milk/</link>
       <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/textos/jogos/milk-inside-a-bag-of-milk/</guid>
+      <guid>/textos/jogos/milk-inside-a-bag-of-milk/</guid>
       <description>
         
         
@@ -60,10 +60,10 @@
     
     <item>
       <title>Quem tem medo de arte abstrata?</title>
-      <link>//localhost:1313/ensaios/arte-abstrata/</link>
+      <link>/ensaios/arte-abstrata/</link>
       <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/ensaios/arte-abstrata/</guid>
+      <guid>/ensaios/arte-abstrata/</guid>
       <description>
         
         
@@ -90,10 +90,10 @@
     
     <item>
       <title>Bullet in the Brain</title>
-      <link>//localhost:1313/textos/literatura/bullet-in-the-brain/</link>
+      <link>/textos/literatura/bullet-in-the-brain/</link>
       <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/textos/literatura/bullet-in-the-brain/</guid>
+      <guid>/textos/literatura/bullet-in-the-brain/</guid>
       <description>
         
         
@@ -110,10 +110,10 @@ Não tenho a menor ideia qual seria o meu, mas com certeza eu tenho algum.&lt;/p
     
     <item>
       <title>Poor Things</title>
-      <link>//localhost:1313/textos/filmes/poor-things/</link>
+      <link>/textos/filmes/poor-things/</link>
       <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/textos/filmes/poor-things/</guid>
+      <guid>/textos/filmes/poor-things/</guid>
       <description>
         
         
