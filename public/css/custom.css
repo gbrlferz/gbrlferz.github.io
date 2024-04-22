@@ -11,7 +11,7 @@
 
 .vertical {
   aspect-ratio: 9/16;
-  min-height: 640px;
+  max-height: 100%;
 }
 
 .pdf {

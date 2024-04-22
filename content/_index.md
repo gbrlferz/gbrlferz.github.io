@@ -18,7 +18,7 @@ layout: hextra-home
         link="projetos"
         image="projetos/capa.jpg"
         title="Projetos"
-        subtitle="Coisas que eu já fiz (e que ainda estou fazendo)."
+        subtitle="Coisas que eu já fiz (e que continuo fazendo)."
         icon="cube"
         imageStyle="object-fit:cover; aspect-ratio:4/3;"
     >}}
@@ -34,7 +34,7 @@ layout: hextra-home
         link="textos"
         image="textos/capa.jpg"
         title="Textos"
-        subtitle="Devaneios sobre todo tipo de coisa."
+        subtitle="Devaneios sobre tudo."
         icon="pencil"
         imageStyle="object-fit:cover; aspect-ratio:4/3;"
     >}}

@@ -1,5 +1,7 @@
 ---
 title: Currículo
+sidebar:
+    exclude: true
 ---
 
 <div align="center"> <iframe class="pdf" src="https://drive.google.com/file/d/1gGiZGP0WgphpuUGsCs-OH9gt6bcPYend/preview" allow="autoplay"></iframe> </div>

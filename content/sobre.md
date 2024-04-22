@@ -3,6 +3,8 @@ title: Sobre
 type: about
 ---
 
+<img src="/images/eu.png" width="45%">
+
 Gabiru é uma palavra estranha, que tem vários significados muito distintos.
 
 Esses vários significados juntos combinam em várias coisas que se complementam na hora de fazer arte
