@@ -3,8 +3,19 @@ title: Mushrun
 weight: 4
 ---
 
-EEEEsse foi o primeiro jogo que terminei, numa game jam que durou nove dias.   
 
-</br>
+Esse jogo começou como uma brincadeira boba comigo e minha namorada.
 
-<iframe frameborder="0" src="https://itch.io/embed/1375284?bg_color=aa0b0b&amp;fg_color=000000&amp;link_color=270a32&amp;border_color=333333" width="552" height="167"><a href="https://gamiru.itch.io/frozen-blood">Frozen Blood by gabiru</a></iframe>
+Eu pedi pra ela escolher elementos aleatórios para eu colocar num jogo.
+
+Ela decidiu que o jogo seria sobre um cogumelo que tem que coletar morangos num shopping.
+
+![](mushrun/capa.png)
+
+Dai nasceu a Mu, minha primeiro personagem original, uma cogumelinha com delineado e uma manchinha de coração na cabeça.
+
+Eu gostei tanto da ideia que eu não consegui me contentar com algo... Já tentei levar essa ideia pra diversos caminhos, mas acho que finalmente estou chegando lá.
+
+![](mushrun/mu_clara.png)
+
+Arte linda feita pela minha amiga [Clara](https://www.instagram.com/_pompomchi_/).
