@@ -1,8 +1,8 @@
 ---
+title: Projects
 ---
 
-## Jogos
-
+## Games
 {{< cards >}}
 
   {{< card
@@ -34,8 +34,7 @@
 
 {{< /cards >}}
 
-### Em produção
-
+### In development
 {{< cards >}}
 
     {{< card
