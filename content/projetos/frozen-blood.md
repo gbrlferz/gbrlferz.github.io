@@ -4,6 +4,7 @@ weight: 3
 description: "Projetos que fiz e estou fazendo"
 ---
 
+![](https://img.itch.zone/aW1nLzgwMjQxMzMucG5n/original/9YwDSE.png)
 
 Fiz esse jogo em 9 dias para a [Game Jaaj 7](https://itch.io/jam/game-jaaj-7), game jam criada pelo [André Young](https://www.youtube.com/channel/UCv29ytb-v_Ph6QZOypGFyEw), o tema era arqui-inimigo.
 
@@ -14,6 +15,8 @@ Foram 9 dias em que eu não conseguia pensar em outra coisa, todo tempo livre qu
 Como foi minha primeira game jam, sofri por problemas de organização, comum quando a gente tá começando, o maior dele foi o famoso [scope creep](https://www.lucidchart.com/blog/pt/como-evitar-o-scope-creep#:~:text=Scope%20creep%20%C3%A9%20um%20termo,dos%20objetivos%20e%20limites%20originais.), na minha cabeça o meu jogo era relativamente simples, mas pra um *solo dev*, em apenas nove dias, foi um pouco demais, então os inimigos ficaram com problemas sérios de colisão, e a jogabilidade ficou bem crua.
 
 Mas tirando isso, eu me orgulho muito desse projeto, principalmente do visual, eu fiz todos os modelos usados no jogo, e acho que o visual ficou bem legal como um todo.
+
+![](https://img.itch.zone/aW1hZ2UvMTM3NTI4NC84MDI0MDI1LnBuZw==/original/9wBhyG.png)
 
 Se quiser testar o jogo, ele está disponível gratuitamente no itch.io.
 
