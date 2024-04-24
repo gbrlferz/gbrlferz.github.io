@@ -1,3 +1,9 @@
+---
+title: Projects
+toc: false
+layout: wide
+---
+
 ## Games
 {{< cards >}}
 

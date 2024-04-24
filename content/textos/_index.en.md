@@ -1,4 +1,6 @@
 ---
+title: Writings
+layout: wide
 ---
 
 {{< cards >}}

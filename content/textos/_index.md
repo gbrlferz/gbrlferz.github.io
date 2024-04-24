@@ -1,4 +1,6 @@
 ---
+title: Textos
+layout: wide
 ---
 
 {{< cards >}}

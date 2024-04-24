@@ -3,11 +3,11 @@ title: Gabiru
 layout: hextra-home
 ---
 
-</br>
-
-{{< hextra/hero-subtitle >}}
-  Um pouco das coisas que eu faço.<br class="sm:hx-block hx-hidden" />
-{{< /hextra/hero-subtitle >}}
+<div class="hx-mt-6 hx-mb-6">
+{{< hextra/hero-headline >}}
+  Gabiru&nbsp;<br class="sm:hx-block hx-hidden" />
+{{< /hextra/hero-headline >}}
+</div>
 
 </br>
 
