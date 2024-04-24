@@ -1,7 +1,9 @@
 ---
+toc: false
+layout: wide
 ---
 
-## Games
+## Jogos
 {{< cards >}}
 
   {{< card
@@ -18,13 +20,7 @@
         imageStyle="object-fit:cover; aspect-ratio:4/3;"
   >}}
 
-{{< /cards >}}
-
-### Game Jams
-
-{{< cards >}}
-
-  {{< card
+ {{< card
         link="frozen-blood"
         title="Frozen Blood"
         image="/projetos/frozen-blood/capa.png"
@@ -33,7 +29,8 @@
 
 {{< /cards >}}
 
-### In development
+### Em produção
+
 {{< cards >}}
 
     {{< card

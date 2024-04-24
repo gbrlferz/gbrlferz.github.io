@@ -1,5 +1,5 @@
 ---
-title: Outros
+title: Etc.
 weight: 4
 type: blog
 cascade:

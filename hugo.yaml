@@ -21,19 +21,19 @@ menu:
   main:
     - identifier: projetos
       name: Projetos
-      pageRef: /projetos
+      pageRef: projetos
       weight: 1
     - identifier: ensaios 
       name: Ensaios
-      pageRef: /ensaios
+      pageRef: ensaios
       weight: 2
     - identifier: textos
       name: Textos
-      pageRef: /textos
+      pageRef: textos
       weight: 3
     - identifier: sobre
       name: Sobre
-      pageRef: /sobre
+      pageRef: sobre
       weight:  4
     - name: Pesquisar
       weight: 5

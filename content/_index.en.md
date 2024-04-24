@@ -15,7 +15,7 @@ layout: hextra-home
 
 {{< hextra/feature-grid >}}
     {{< card
-        link="/projetos"
+        link="projetos"
         image="/projetos/capa.jpg"
         title="Projects"
         subtitle="Things I've done (and continue to do)."
@@ -23,7 +23,7 @@ layout: hextra-home
         imageStyle="object-fit:cover; aspect-ratio:4/3;"
     >}}
     {{< card
-        link="/ensaios"
+        link="ensaios"
         image="/ensaios/capa.jpg"
         title="Essays"
         subtitle="Unscrambled thoughts."
@@ -31,7 +31,7 @@ layout: hextra-home
         imageStyle="object-fit:cover; aspect-ratio:4/3;"
     >}}
     {{< card
-        link="/textos"
+        link="textos"
         image="/textos/capa.jpg"
         title="Textos"
         subtitle="Daydreams about everything."
