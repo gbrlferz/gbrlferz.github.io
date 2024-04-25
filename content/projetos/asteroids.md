@@ -10,7 +10,8 @@ weight: 1
     {{< hextra/hero-button text="Jogar" link="jogar" >}}
 </div>
 
-## Sobre
+Fiz esse jogo em 5 dias para praticar um pouco, depois de passar um tempo sem desenvolver jogos.
 
-Projeto que fiz em 9 dias.
+Música feita por [Matthew Pablo](https://opengameart.org/content/space-boss-battle-theme)
 
+Inspirado no tutorial do [Zigorous](https://www.youtube.com/@Zigurous)

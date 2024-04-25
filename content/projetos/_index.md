@@ -17,7 +17,7 @@ layout: wide
   {{< card
         link="lasanha"
         title="Lasanha"
-        image="/projetos/lasanha/capa.jpg"
+        image="/projetos/lasanha/capa.png"
         imageStyle="object-fit:cover; aspect-ratio:4/3;"
   >}}
 
