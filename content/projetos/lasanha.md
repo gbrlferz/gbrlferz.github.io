@@ -32,7 +32,7 @@ Apesar das limitações gráficas e sonoras da engine, acho que o jogo ficou _ch
 
 ![](/projetos/lasanha/header.png)
 
-Publiquei o jogo no [itch.io](https://gamiru.itch.io/lasanha), e você pode jogar tanto no computador quanto pelo celular, aqui mesmo pelo navegador.
+O jogo está disponível gratuitamente no [itch.io](https://gamiru.itch.io/lasanha), e você pode jogar tanto no computador quanto pelo celular, aqui mesmo pelo navegador.
 
 <br>
 

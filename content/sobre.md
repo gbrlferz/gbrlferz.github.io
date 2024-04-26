@@ -38,7 +38,7 @@ Aqui no nordeste, é como chamam o _rato-preto_.
 
 Um pouco de tudo.
 
-E já diria o músico mineiro Jonathan Tadeu, [sou amador em tudo que faço, mas eu faço!](https://youtu.be/TTvWvJWzGws?t=96)
+E já diria o músico mineiro Jonathan Tadeu, [sou amador em tudo que faço, mas eu faço.](https://youtu.be/TTvWvJWzGws?t=96)
 
 Brincadeiras a parte, ser um desenvolvedor indie solo, me obrigou a desenvolver habilidades em todas as áreas do desenvolvimento de jogos, da arte até a programação.
 
