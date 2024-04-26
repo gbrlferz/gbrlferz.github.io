@@ -1,4 +1,5 @@
 ---
+title: Gabriel
 type: about
 ---
 
@@ -9,14 +10,13 @@ Meu nome é Gabriel de Carvalho, e quero contar minhas histórias através de vi
 Faço jogos e arte 3D desde 2019, e escrevo desde ~~quase~~ sempre.
 
 
-> A arte existe porque a vida não basta<br>
+> A arte existe porque a vida não basta.<br>
 > — <cite>Ferreira Gullar</cite>
 
 <div class="hx-mb-6" align="center">
     {{< hextra/hero-button text="Currículo" link="/curriculo/" >}}
 </div>
 
-</br>
 
 {{% details title="O que significa gabiru?" closed="true" %}}
 
@@ -36,7 +36,35 @@ Aqui no nordeste, é como chamam o _rato-preto_.
 
 {{% details title="O que você faz?" closed="true" %}}
 
+Um pouco de tudo.
+
+E já diria o músico mineiro Jonathan Tadeu, [sou amador em tudo que faço, mas eu faço!](https://youtu.be/TTvWvJWzGws?t=96)
+
+Brincadeiras a parte, ser um desenvolvedor indie solo, me obrigou a desenvolver habilidades em todas as áreas do desenvolvimento de jogos, da arte até a programação.
+
+Mas não deixo de ter habilidades que acabei desenvolvendo mais, sendo elas arte 3D, Game Design, e escrita. 
+
 {{% /details %}}
 
-</br>
 
+{{% details title="Quais são suas ambições?" closed="true" %}}
+
+Quando eu era mais novo, minhas ambições eram enormes, e agora elas são mais singelas, mas mais relevantes do que nunca.
+
+Faço videogames para me expressar, quero criar mundos que fascinem, e histórias que façam sentir e refletir.
+
+Minha arte é _inevitável_, então, por que não fazer dela minha carreira?
+
+{{% /details %}}
+
+
+{{% details title="Que jogos foram mais importantes para você?" closed="true" %}}
+
+- Bloodborne — Por reacender meu amor por jogos.
+- Zelda — Por me fazer voltar a ser criança.
+- Spelunky — Por ser o jogo mais divertido já feito.
+- The Last of Us — Por revolucionar a narrativa dos jogos.
+- Disco Elysium — Pela criatividade e coragem incomparável.
+- Garry's Mod — Por me fazer conhecer tantos amigos.
+
+{{% /details %}}
