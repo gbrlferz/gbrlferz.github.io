@@ -10,11 +10,10 @@ Meu nome é Gabriel de Carvalho, e quero contar minhas histórias através de vi
 
 Faço jogos e arte 3D desde 2019, e escrevo desde ~~quase~~ sempre.
 
-</br>
-
-
 > A arte existe porque a vida não basta.<br>
 > — <cite>Ferreira Gullar</cite>
+
+</br>
 
 <div class="hx-mb-6" align="center">
     {{< hextra/hero-button text="Currículo" link="/curriculo/" >}}
