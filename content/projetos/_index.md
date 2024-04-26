@@ -2,6 +2,7 @@
 title: Projetos
 toc: false
 layout: wide
+weight: 1
 ---
 
 ## Jogos

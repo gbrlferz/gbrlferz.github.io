@@ -1,6 +1,7 @@
 ---
-title: Gabriel
+title: Sobre
 type: about
+weight: 4
 ---
 
 <img src="/images/eu.png" width="50%">

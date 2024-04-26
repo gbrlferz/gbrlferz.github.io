@@ -1,6 +1,7 @@
 ---
 title: Textos
 layout: wide
+weight: 3
 ---
 
 {{< cards >}}
