@@ -10,6 +10,8 @@ Meu nome é Gabriel de Carvalho, e quero contar minhas histórias através de vi
 
 Faço jogos e arte 3D desde 2019, e escrevo desde ~~quase~~ sempre.
 
+</br>
+
 
 > A arte existe porque a vida não basta.<br>
 > — <cite>Ferreira Gullar</cite>
@@ -39,7 +41,7 @@ Aqui no nordeste, é como chamam o _rato-preto_.
 
 Um pouco de tudo.
 
-E já diria o músico mineiro Jonathan Tadeu, [sou amador em tudo que faço, mas eu faço.](https://youtu.be/TTvWvJWzGws?t=96)
+Já diria o músico Jonathan Tadeu, [sou amador em tudo que faço, mas eu faço.](https://youtu.be/TTvWvJWzGws?t=96)
 
 Brincadeiras a parte, ser um desenvolvedor indie solo, me obrigou a desenvolver habilidades em todas as áreas do desenvolvimento de jogos, da arte até a programação.
 
@@ -59,7 +61,7 @@ Minha arte é _inevitável_, então, por que não fazer dela minha carreira?
 {{% /details %}}
 
 
-{{% details title="Que jogos foram mais importantes para você?" closed="true" %}}
+{{% details title="Quais são seus jogos favoritos?" closed="true" %}}
 
 - Bloodborne — Por reacender meu amor por jogos.
 - Zelda — Por me fazer voltar a ser criança.
