@@ -4,25 +4,24 @@ description: Você também tem?
 date: 2024-04-10
 ---
 
+![](https://euquedesenhei.com/wp-content/uploads/2019/01/cri_000000223805.jpg)
+
 Você também tem medo de arte abstrata?
 
-A pintura, na sua concepção, era vista mais como algo utilitário do que arte, o homem pré-histórico pintava nas cavernas para atrair a caça. Afrescos eram pintados nas igrejas para encantar (e amedrontar). Até a arte renascentista, uma das mais admiradas, atrelava a arte como imitação da natureza, racional, matemática, cientifica.
+A pintura, na sua concepção, era vista mais como algo utilitário do que arte, o homem pré-histórico pintava nas cavernas para atrair a caça, afrescos eram pintados nas igrejas para encantar (e amedrontar), até os artistas renascentistas, representavam a natureza racionalmente, pelo valor cientifico.
 
-![](https://images.educamaisbrasil.com.br/content/banco_de_imagens/guia-de-estudo/D/renascimento-michelangelo-artes.jpg)
+![](https://www.worldatlas.com/r/w1200/upload/09/1e/33/640px-1710-15-de-matteis-triumph-of-the-immaculate-anagoria.jpg)
 
- A utilidade da pintura só foi posta em cheque quando em 1826 a humanidade tirou a primeira fotografia, a partir dali, o que era preciso de anos de prática, podia ser feito com mais realismo do que nunca, por qualquer um, em um clique.
+ Mas em 1826 o homem tirou a primeira fotografia, o que era necessário anos de prática, podia ser feito por qualquer um, em um só clique.
 
-Afinal, se a pintura existia para representar o real, para que ela serve agora?
-
-![](https://www.papeiseparede.com.br/8543-thickbox_default/papel-de-parede-os-girassois-por-van-gogh.jpg.webp)
+Se a pintura é apenas uma ferramenta para representar o real, para que ela serve?
 
 Perceber a pintura como arte ajudou ela a se desenvolver como tal, analisar a ação humana com esse viés utilitário, é muitas vezes um desserviço.  
 
-Sem as amarras da realidade, pudemos criar algo novo. Só por cauda disso pudemos apreciar Monet, Van Gogh, Salvador Dalí, Frida Kahlo e... Pollock?
+Sem as amarras da realidade, pudemos criar algo novo. Só por causa disso podemos hoje apreciar Monet, Van Gogh, Salvador Dalí, Frida Kahlo e... Pollock?
 
-![](https://euquedesenhei.com/wp-content/uploads/2019/01/cri_000000223805.jpg)
 
-Talvez… tenhamos ido longe demais, como a gente chegou nisso?
+Talvez… a gente tenha ido longe demais, como a gente chegou nesses borrões e pingos?
 
 Francisco de Goya, um dos maiores pintores da Espanha, o último dos velhos mestres e o primeiro dos modernos, viveu na pele essa mudança. Após ter sofrido um AVC, morreu em 1828, dois anos após a primeira fotografia.
 
