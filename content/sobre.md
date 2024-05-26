@@ -26,7 +26,6 @@ Faço jogos e arte 3D desde 2019, e escrevo desde ~~quase~~ sempre.
 
 É uma palavra com diversos significados.
 
-- Gabiru é uma palavra engraçada, com significados distintos.
 - Gabiru é quem age com esperteza, o malandro.
 - Gabiru é o alegre, o brincalhão, o gaiato.
 - Gabiru é um dos nomes do demônio.
