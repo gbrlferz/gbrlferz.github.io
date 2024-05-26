@@ -23,19 +23,19 @@ layout: hextra-home
         imageStyle="object-fit:cover; aspect-ratio:4/3;"
     >}}
     {{< card
-        link="ensaios"
-        image="ensaios/capa.jpg"
-        title="Ensaios"
-        subtitle="Pensamentos desembaralhados."
-        icon="chat"
-        imageStyle="object-fit:cover; aspect-ratio:4/3;"
-    >}}
-    {{< card
         link="textos"
         image="textos/capa.jpg"
         title="Textos"
         subtitle="Devaneios sobre tudo."
         icon="pencil"
+        imageStyle="object-fit:cover; aspect-ratio:4/3;"
+    >}}
+    {{< card
+        link="sobre"
+        image="ensaios/capa.jpg"
+        title="Sobre"
+        subtitle="Quem sou eu?"
+        icon="chat"
         imageStyle="object-fit:cover; aspect-ratio:4/3;"
     >}}
 {{< /hextra/feature-grid >}}

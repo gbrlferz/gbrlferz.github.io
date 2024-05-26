@@ -1,12 +1,18 @@
 ---
 title: Textos
-layout: wide
 weight: 3
+cascade:
+    type: default
 ---
+
+Nem tudo aqui faz sentido.
+
+</p>
 
 {{< cards >}}
     {{< card link="filmes" title="Filmes" icon="film" >}}
-    {{< card link="literatura" title="Literatura" icon="book-open" >}}
+    {{< card link="ensaios" title="Ensaios" icon="film" >}}
+    {{< card link="literatura" title="Livros" icon="book-open" >}}
     {{< card link="jogos" title="Jogos" icon="puzzle" >}}
     {{< card link="etc" title="Etc." icon="variable" >}}
 {{< /cards >}}

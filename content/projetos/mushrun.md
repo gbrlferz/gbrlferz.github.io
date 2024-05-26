@@ -17,4 +17,4 @@ Eu gostei tanto da ideia que eu não consegui me contentar com algo simples... J
 
 ![](mushrun/mu_clara.png)
 
-Arte linda feita pela minha amiga [Pompomchi](https://www.instagram.com/_pompomchi_/).
+Linda arte feita pela minha amiga [Pompomchi](https://www.instagram.com/_pompomchi_/)!
