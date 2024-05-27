@@ -32,10 +32,10 @@ layout: hextra-home
     >}}
     {{< card
         link="sobre"
-        image="ensaios/capa.jpg"
+        image="sobre-capa.jpg"
         title="Sobre"
         subtitle="Quem sou eu?"
-        icon="chat"
+        icon="user"
         imageStyle="object-fit:cover; aspect-ratio:4/3;"
     >}}
 {{< /hextra/feature-grid >}}
