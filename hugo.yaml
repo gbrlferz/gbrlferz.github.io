@@ -45,20 +45,16 @@ menu:
       url: "https://www.instagram.com/gabiruh.art/"
       params:
         icon: instagram
-    - name: Goodreads
-      url: "https://goodreads.com/gbrlferz"
-      params:
-        icon: goodreads
-    - name: Letterboxd
-      weight: 8
-      url: "https://letterboxd.com/gbrlferz"
-      params:
-        icon: letterboxd
     - name: GitHub
-      weight: 9
+      weight: 8
       url: "https://github.com/gbrlferz"
       params:
         icon: github
+    - name: LinkedIn
+      weight: 9
+      url: "https://www.linkedin.com/in/gbrlferz/"
+      params:
+        icon: linkedin
 
 defaultContentLanguage: pt
 
