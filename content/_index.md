@@ -9,6 +9,12 @@ layout: hextra-home
 {{< /hextra/hero-headline >}}
 </div>
 
+<div class="hx-mb-12">
+{{< hextra/hero-subtitle >}}
+  Fazendo jogos que importam, aprendendo sempre.
+{{< /hextra/hero-subtitle >}}
+</div>
+
 </br>
 
 <div class="hx-mt-6"></div>
@@ -24,7 +30,7 @@ layout: hextra-home
     >}}
     {{< card
         link="textos"
-        image="textos/capa.jpg"
+        image="textos-capa.jpg"
         title="Textos"
         subtitle="Devaneios sobre tudo."
         icon="pencil"
