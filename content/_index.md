@@ -11,7 +11,7 @@ layout: hextra-home
 
 <div class="hx-mb-12">
 {{< hextra/hero-subtitle >}}
-  Fazendo jogos que importam, aprendendo sempre.
+  Tentando fazer jogos que importam, aprendendo sempre.
 {{< /hextra/hero-subtitle >}}
 </div>
 
