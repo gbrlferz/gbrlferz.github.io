@@ -1,5 +1,9 @@
 * {
-  font-family: "Atkinson Hyperlegible"; 
+  font-family: "Latitude Regular"; 
+}
+
+h1, h2 {
+  font-family: "Gulax"; 
 }
 
 .square {

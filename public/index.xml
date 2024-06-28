@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gabiru – Gabiru</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on Gabiru</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
-    <lastBuildDate>Fri, 14 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,11 +15,41 @@
     
     
     <item>
+      <title>Sem tempo para dormir, ou para conhecer os outros</title>
+      <link>//localhost:1313/devaneios/medo/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/devaneios/medo/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;img src=&#34;https://i.pinimg.com/564x/c2/4a/5c/c24a5c4a15661ebd7b52e3f852c36cd8.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Eu não devo ter medo. Medo é o assassino da mente. Medo é a pequena morte que leva à aniquilação total. Eu enfrentarei meu medo. - Frank Herbert&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Faz alguns anos que decidi que eu fazer jogos seria minha carreira, não só para suprir meu desejo de criar arte, expressar ideias que julgo importante, mas principalmente, por saber que tenho a motivação necessária para ficar bom nisso. Quero ajudar os outros tanto quanto já me ajudaram.&lt;/p&gt;
+&lt;p&gt;É muito exaustivo, acordo de manhã sem saber se o resto do dia será de hiperatividade cega, ou de uma desmotivação paralisante.&lt;/p&gt;
+&lt;p&gt;Sou um fardo para os meus amigos? Talvez eles nem pensem tanto em mim? Qual dos dois é pior?&lt;/p&gt;
+&lt;p&gt;Sei que nenhum dos dois é verdade, mas penso demais nisso.&lt;/p&gt;
+&lt;p&gt;Tenho &lt;del&gt;quase&lt;/del&gt; certeza que eles gostam de mim, mas não quero que eles tenham que lidar com o pior de mim.&lt;/p&gt;
+&lt;p&gt;Mas é insuportável se sentir sozinho.&lt;/p&gt;
+&lt;p&gt;Eu só sinto muitas saudades, e eu não sei me expressar, mas eu sinto.&lt;/p&gt;
+&lt;p&gt;Amo muito todos vocês, meus amigos, eu faço tudo por vocês.&lt;/p&gt;
+&lt;p&gt;Dá tanto medo, mas a gente consegue.&lt;/p&gt;
+&lt;p&gt;Eu só queria a gente, todo mundo mesmo, sentados num bar, bebendo, falando varias, curtindo e se amando, e todas nossas ansiedades, nossos medos, nossos problemas, nossos empregos, nossas vergonhas, meu pessimismo, a minha arrogância, nossos dilemas, incompreensões, medos de morrer, medos de tentar, tristezas, carências, decepções, tristezas, cansaços, tristezas, estejam queimando numa fogueira, tão alta e tão hipnotizante que a gente vai ficar igual uns idiotas olhando pra ela, porque vamos ver que aquilo nunca importou, o que importava era um estar com o outro ajudando a queimar aquilo que murchava a gente por dentro, e a gente vai seguir em frente, sempre e sempre&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Pro medo cessar eu tive de reagir.&lt;/p&gt;
+&lt;/br&gt;
+&lt;iframe width=&#34;560&#34; class=&#34;video&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/LNZDtllQdNk?si=Kq3mYP6Vt6x0RvDm&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Mentes e mentes e mentes e mentes...</title>
-      <link>/devaneios/mentes/</link>
+      <link>//localhost:1313/devaneios/mentes/</link>
       <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>/devaneios/mentes/</guid>
+      <guid>//localhost:1313/devaneios/mentes/</guid>
       <description>
         
         
@@ -35,10 +65,10 @@
     
     <item>
       <title>Relógio</title>
-      <link>/devaneios/relogio/</link>
+      <link>//localhost:1313/devaneios/relogio/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>/devaneios/relogio/</guid>
+      <guid>//localhost:1313/devaneios/relogio/</guid>
       <description>
         
         
@@ -54,10 +84,10 @@
     
     <item>
       <title>Ferramentas</title>
-      <link>/etc/ferramentas/</link>
+      <link>//localhost:1313/etc/ferramentas/</link>
       <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>/etc/ferramentas/</guid>
+      <guid>//localhost:1313/etc/ferramentas/</guid>
       <description>
         
         
@@ -84,10 +114,10 @@
     
     <item>
       <title>Milk inside a bag of milk inside a bag of milk</title>
-      <link>/jogos/milk-inside-a-bag-of-milk/</link>
+      <link>//localhost:1313/jogos/milk-inside-a-bag-of-milk/</link>
       <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>/jogos/milk-inside-a-bag-of-milk/</guid>
+      <guid>//localhost:1313/jogos/milk-inside-a-bag-of-milk/</guid>
       <description>
         
         
@@ -98,10 +128,10 @@
     
     <item>
       <title>A arte abstrata me dá medo.</title>
-      <link>/ensaios/arte-abstrata/</link>
+      <link>//localhost:1313/ensaios/arte-abstrata/</link>
       <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>/ensaios/arte-abstrata/</guid>
+      <guid>//localhost:1313/ensaios/arte-abstrata/</guid>
       <description>
         
         
@@ -124,10 +154,10 @@
     
     <item>
       <title>Bullet in the Brain</title>
-      <link>/livros/bullet-in-the-brain/</link>
+      <link>//localhost:1313/livros/bullet-in-the-brain/</link>
       <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>/livros/bullet-in-the-brain/</guid>
+      <guid>//localhost:1313/livros/bullet-in-the-brain/</guid>
       <description>
         
         
@@ -144,10 +174,10 @@ Não tenho a menor ideia qual seria o meu, mas com certeza eu tenho algum.&lt;/p
     
     <item>
       <title>Poor Things</title>
-      <link>/filmes/poor-things/</link>
+      <link>//localhost:1313/filmes/poor-things/</link>
       <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>/filmes/poor-things/</guid>
+      <guid>//localhost:1313/filmes/poor-things/</guid>
       <description>
         
         
