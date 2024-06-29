@@ -1,5 +1,5 @@
 ---
-title: Gabiru 
+title: Gabiru
 layout: hextra-home
 ---
 
