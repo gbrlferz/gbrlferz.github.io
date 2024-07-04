@@ -1,9 +1,14 @@
 * {
-  font-family: "Abordage Regular"; 
+  font-family: "Atkinson Hyperlegible"; 
 }
 
 h1, h2 {
-  font-family: "Gulax"; 
+  font-family: "ft88 regular"; 
+}
+
+:root {
+  --primary-hue: 355deg;
+  --primary-saturation: 90%;
 }
 
 .square {
