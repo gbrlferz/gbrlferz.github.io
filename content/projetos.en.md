@@ -1,7 +1,7 @@
 ---
 title: Projects
 toc: false
-layout: wide
+weight: 1
 ---
 
 ## Games
@@ -17,17 +17,11 @@ layout: wide
   {{< card
         link="lasanha"
         title="Lasanha"
-        image="/projetos/lasanha/capa.jpg"
+        image="/projetos/lasanha/capa.png"
         imageStyle="object-fit:cover; aspect-ratio:4/3;"
   >}}
 
-{{< /cards >}}
-
-### Game Jams
-
-{{< cards >}}
-
-  {{< card
+ {{< card
         link="frozen-blood"
         title="Frozen Blood"
         image="/projetos/frozen-blood/capa.png"
@@ -37,6 +31,7 @@ layout: wide
 {{< /cards >}}
 
 ### In development
+
 {{< cards >}}
 
     {{< card

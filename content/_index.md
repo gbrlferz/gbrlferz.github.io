@@ -11,7 +11,7 @@ layout: hextra-home
 
 <div class="hx-mb-12">
 {{< hextra/hero-subtitle >}}
-  Tentando fazer jogos que importam, aprendendo sempre.
+Fazendo jogos, aprendendo sempre.
 {{< /hextra/hero-subtitle >}}
 </div>
 
@@ -22,9 +22,9 @@ layout: hextra-home
 {{< hextra/feature-grid >}}
     {{< card
         link="projetos"
-        image="projetos/capa.jpg"
+        image="projetos-capa.jpg"
         title="Projetos"
-        subtitle="Coisas que eu já fiz (e que continuo fazendo)."
+        subtitle="Coisas que já fiz e outras que ainda estou fazendo."
         icon="cube"
         imageStyle="object-fit:cover; aspect-ratio:4/3;"
     >}}
@@ -32,7 +32,7 @@ layout: hextra-home
         link="textos"
         image="textos-capa.jpg"
         title="Textos"
-        subtitle="Devaneios sobre tudo."
+        subtitle="Sobre arte, desenvolvimento de jogos e outras coisas."
         icon="pencil"
         imageStyle="object-fit:cover; aspect-ratio:4/3;"
     >}}
@@ -40,7 +40,7 @@ layout: hextra-home
         link="sobre"
         image="sobre-capa.jpg"
         title="Sobre"
-        subtitle="Quem sou eu?"
+        subtitle="Conheça um pouco sobre mim."
         icon="user"
         imageStyle="object-fit:cover; aspect-ratio:4/3;"
     >}}

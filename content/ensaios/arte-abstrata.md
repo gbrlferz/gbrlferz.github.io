@@ -4,8 +4,7 @@ description: Você também tem?
 date: 2024-04-10
 ---
 
-![](https://euquedesenhei.com/wp-content/uploads/2019/01/cri_000000223805.jpg)
-
+![](https://i.pinimg.com/originals/fe/84/98/fe8498c22dee41d0a44726b9521c7983.jpg)
 Você também tem medo de arte abstrata?
 
 A pintura, na sua concepção, era vista mais como algo utilitário do que arte, o homem pré-histórico pintava nas cavernas para atrair a caça, afrescos eram pintados nas igrejas para encantar (e amedrontar), até os artistas renascentistas, representavam a natureza racionalmente, pelo valor cientifico.
@@ -19,7 +18,6 @@ Se a pintura é apenas uma ferramenta para representar o real, para que ela serv
 Perceber a pintura como arte ajudou ela a se desenvolver como tal, analisar a ação humana com esse viés utilitário, é muitas vezes um desserviço.  
 
 Sem as amarras da realidade, pudemos criar algo novo. Só por causa disso podemos hoje apreciar Monet, Van Gogh, Salvador Dalí, Frida Kahlo e... Pollock?
-
 
 Talvez… a gente tenha ido longe demais, como a gente chegou nesses borrões e pingos?
 

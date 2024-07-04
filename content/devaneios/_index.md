@@ -1,6 +1,5 @@
 ---
-title: Ensaios
+title: Devaneios
 cascade:
     type: blog
-weight: 2
 ---

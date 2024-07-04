@@ -2,9 +2,8 @@
 title: Ferramentas
 description: Programas que eu uso pra fazer meus jogos. 
 date: 2024-04-14
+draft: true
 ---
-
-Sempre que eu conheço algum desenvolvedor,
 
 ## Gráficos
 

@@ -4,13 +4,19 @@ weight: 2
 description: "Um dia eu achei um sapo, ele estava numa forma de lasanha, o resto é história."
 ---
 
-![](/projetos/lasanha/foto-lasanha.jpg "Um dia eu achei um sapo, ele estava numa forma de lasanha, o resto é história.")
+<div align="center" ><iframe class="square" frameborder="0" src="https://itch.io/embed-upload/9859983?color=327345" allowfullscreen=""><a href="https://gamiru.itch.io/lasanha">Play Lasanha on itch.io</a></iframe></div>
+
+</br>
 
 ## Ideia
 
 Após as [polêmicas envolvendo a Unity](https://jovemnerd.com.br/noticias/games/unity-troca-ceo-apos-polemica), engine que uso para fazer meus jogos desde 2019, resolvi expandir meus horizontes, e, porque não, me divertir um pouco?
 
 Eu tinha várias opções, o que não falta hoje são engines poderosas e acessíveis para aprender, mas eu queria algo diferente, um desafio… então não aprender PICO-8?
+
+Decidi fazer um jogo em homenagem à um sapo que eu achei dentro de uma forma de lasanha.
+
+![](/projetos/lasanha/foto-lasanha.jpg)
 
 ## PICO-8
 
@@ -20,9 +26,9 @@ Quando não precisamos nos preocupar com os mínimos detalhes, a gente consegue 
 
 ![](https://i.ytimg.com/vi/mvVNVMhag5s/maxresdefault.jpg)
 
-Então resolvi fazer um jogo bem simples, inspirado no [Disc Room](https://discroom.com/) e no Lasanha, um sapo (enorme) que um dia encontrei numa forminha de lasanha, e que vive na minha rua até hoje.
+Então resolvi fazer um jogo bem simples, inspirado no [Disc Room](https://discroom.com/) e no Lasanha, o nome que meu irmão deu pra aquele sapão.
 
-## Habilidades
+## Postmortem
 
 Fiz toda a programação, arte e até música do jogo! Num espaço de 5 dias.
 
@@ -30,12 +36,6 @@ Apesar das limitações gráficas e sonoras da engine, acho que o jogo ficou _ch
 
 ## Jogar
 
-![](/projetos/lasanha/header.png)
 
-O jogo está disponível gratuitamente no [itch.io](https://gamiru.itch.io/lasanha), e você pode jogar tanto no computador quanto pelo celular, aqui mesmo pelo navegador.
+O jogo também está disponível gratuitamente no [itch.io](https://gamiru.itch.io/lasanha).
 
-<br>
-
-<div class="hx-mb-6" align="center">
-    {{< hextra/hero-button text="Aperte aqui para jogar" link="jogar" >}}
-</div>

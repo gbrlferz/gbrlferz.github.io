@@ -1,5 +1,5 @@
 ---
-title: Essays
+title: Daydreams
 cascade:
     type: blog
 ---

@@ -1,7 +1,5 @@
 ---
-title: Filmes
-weight: 1
-type: blog
+title: Movies
 cascade:
     type: blog
 ---

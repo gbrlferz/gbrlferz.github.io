@@ -1,5 +1,5 @@
 ---
-title: Gabiru 
+title: Gabiru
 layout: hextra-home
 ---
 
@@ -9,6 +9,12 @@ layout: hextra-home
 {{< /hextra/hero-headline >}}
 </div>
 
+<div class="hx-mb-12">
+{{< hextra/hero-subtitle >}}
+Making games, always learning.
+{{< /hextra/hero-subtitle >}}
+</div>
+
 </br>
 
 <div class="hx-mt-6"></div>
@@ -16,26 +22,26 @@ layout: hextra-home
 {{< hextra/feature-grid >}}
     {{< card
         link="projetos"
-        image="/projetos/capa.jpg"
+        image="/projetos-capa.jpg"
         title="Projects"
-        subtitle="Things I've done (and continue to do)."
+        subtitle="Thing's I've done and others I'm still doing"
         icon="cube"
         imageStyle="object-fit:cover; aspect-ratio:4/3;"
     >}}
     {{< card
-        link="ensaios"
-        image="/ensaios/capa.jpg"
-        title="Essays"
-        subtitle="Unscrambled thoughts."
-        icon="chat"
+        link="textos"
+        image="/textos-capa.jpg"
+        title="Writings"
+        subtitle="About art, game development and other things."
+        icon="pencil"
         imageStyle="object-fit:cover; aspect-ratio:4/3;"
     >}}
     {{< card
-        link="textos"
-        image="/textos/capa.jpg"
-        title="Textos"
-        subtitle="Daydreams about everything."
-        icon="pencil"
+        link="sobre"
+        image="/sobre-capa.jpg"
+        title="About"
+        subtitle="Get to know me a bit."
+        icon="user"
         imageStyle="object-fit:cover; aspect-ratio:4/3;"
     >}}
 {{< /hextra/feature-grid >}}
