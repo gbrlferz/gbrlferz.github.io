@@ -21,7 +21,7 @@ Making games, always learning.
 
 {{< hextra/feature-grid >}}
     {{< card
-        link="/projetos"
+        link="projetos"
         image="/projetos-capa.jpg"
         title="Projects"
         subtitle="Thing's I've done and others I'm still doing"
