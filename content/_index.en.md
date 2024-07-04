@@ -21,7 +21,7 @@ Making games, always learning.
 
 {{< hextra/feature-grid >}}
     {{< card
-        link="projetos"
+        link="/projetos"
         image="/projetos-capa.jpg"
         title="Projects"
         subtitle="Thing's I've done and others I'm still doing"
@@ -29,7 +29,7 @@ Making games, always learning.
         imageStyle="object-fit:cover; aspect-ratio:4/3;"
     >}}
     {{< card
-        link="textos"
+        link="/textos"
         image="/textos-capa.jpg"
         title="Writings"
         subtitle="About art, game development and other things."
@@ -37,7 +37,7 @@ Making games, always learning.
         imageStyle="object-fit:cover; aspect-ratio:4/3;"
     >}}
     {{< card
-        link="sobre"
+        link="/sobre"
         image="/sobre-capa.jpg"
         title="About"
         subtitle="Get to know me a bit."
