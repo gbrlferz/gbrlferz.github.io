@@ -1,6 +1,7 @@
 ---
 title: Writings
 weight: 3
+layout: wide
 cascade:
     type: default
 ---
