@@ -3,8 +3,8 @@
 }
 
 @font-face {
-  font-family: "Atkinson Hyperlegible";
-  src:
+  font-family: Atkinson Hyperlegible;
+  src: local("Atkinson Hyperlegible"),
     url("\fonts\Atkinson-Hyperlegible-Regular-102.woff") format("woff"),
     url("\fonts\Atkinson-Hyperlegible-Italic-102.woff") format("woff"),
     url("\fonts\Atkinson-Hyperlegible-BoldItalic-102.woff") format("woff"),
