@@ -5,7 +5,7 @@ layout: hextra-home
 
 <div class="hx-mt-6 hx-mb-6">
 {{< hextra/hero-headline >}}
-  Gabiru&nbsp;<br class="sm:hx-block hx-hidden" />
+Gabiru
 {{< /hextra/hero-headline >}}
 </div>
 
@@ -15,9 +15,9 @@ Fazendo jogos, aprendendo sempre.
 {{< /hextra/hero-subtitle >}}
 </div>
 
-</br>
-
 <div class="hx-mt-6"></div>
+
+</br>
 
 {{< hextra/feature-grid >}}
     {{< card
