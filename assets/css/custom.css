@@ -1,15 +1,11 @@
 * {
   font-family: "Atkinson Hyperlegible"; 
-}
-
-@font-face {
-  font-family: "Atkinson Hyperlegible";
-  src:
-    local("Atkinson Hyperlegible"),
-    url("Atkinson-Hyperlegible-Regular-102.woff") format("woff"),
-    url("Atkinson-Hyperlegible-Italic-102.woff") format("woff"),
-    url("Atkinson-Hyperlegible-BoldItalic-102.woff") format("woff"),
-    url("Atkinson-Hyperlegible-Bold-102.woff") format("woff"),
+    src:
+      local("Atkinson Hyperlegible"),
+      url("Atkinson-Hyperlegible-Regular-102.woff") format("woff"),
+      url("Atkinson-Hyperlegible-Italic-102.woff") format("woff"),
+      url("Atkinson-Hyperlegible-BoldItalic-102.woff") format("woff"),
+      url("Atkinson-Hyperlegible-Bold-102.woff") format("woff"),
 }
 
 h1, h2, h3, h4, h5, h6 {
