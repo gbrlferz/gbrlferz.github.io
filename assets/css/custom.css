@@ -4,9 +4,7 @@
 
 @font-face {
   font-family: "Atkinson Hyperlegible";
-  src: url(\fonts\Atkinson-Hyperlegible-Regular-102.woff);
-  font-style: normal;
-  font-weight: 100;
+  src: url(/fonts/Atkinson-Hyperlegible-Regular-102.woff) format("woff");
 }
 
 h1, h2, h3, h4, h5, h6 {
