@@ -21,8 +21,8 @@ Fazendo jogos, aprendendo sempre.
 
 {{< hextra/feature-grid >}}
     {{< card
-        link="projetos"
-        image="projetos-capa.jpg"
+        link="/projetos"
+        image="/projetos/capa.jpg"
         title="Projetos"
         subtitle="Coisas que já fiz e outras que ainda estou fazendo."
         icon="cube"
@@ -30,7 +30,7 @@ Fazendo jogos, aprendendo sempre.
     >}}
     {{< card
         link="/textos"
-        image="textos-capa.jpg"
+        image="/textos/capa.jpg"
         title="Textos"
         subtitle="Sobre arte, desenvolvimento de jogos e outras coisas."
         icon="pencil"
