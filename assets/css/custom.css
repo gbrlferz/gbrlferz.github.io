@@ -1,14 +1,12 @@
 * {
-  font-family: "Atkinson Hyperlegible"; 
+  font-family: Atkinson Hyperlegible; 
 }
 
 @font-face {
-  font-family: Atkinson Hyperlegible;
-  src: local("Atkinson Hyperlegible"),
-    url("\fonts\Atkinson-Hyperlegible-Regular-102.woff") format("woff"),
-    url("\fonts\Atkinson-Hyperlegible-Italic-102.woff") format("woff"),
-    url("\fonts\Atkinson-Hyperlegible-BoldItalic-102.woff") format("woff"),
-    url("\fonts\Atkinson-Hyperlegible-Bold-102.woff") format("woff"),
+  font-family: "Atkinson Hyperlegible";
+  src: url(\fonts\Atkinson-Hyperlegible-Regular-102.woff);
+  font-style: normal;
+  font-weight: 100;
 }
 
 h1, h2, h3, h4, h5, h6 {
