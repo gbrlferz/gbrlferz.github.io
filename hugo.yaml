@@ -76,6 +76,7 @@ params:
       # link: /
       width: 30
       heigth: 30
+  custom_css: ["css/custom_style.css"]
 
   footer:
     displayCopyright: true
