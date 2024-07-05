@@ -1,11 +1,119 @@
 * {
   font-family: "Atkinson Hyperlegible"; 
-    src:
-      local("Atkinson Hyperlegible"),
-      url("Atkinson-Hyperlegible-Regular-102.woff") format("woff"),
-      url("Atkinson-Hyperlegible-Italic-102.woff") format("woff"),
-      url("Atkinson-Hyperlegible-BoldItalic-102.woff") format("woff"),
-      url("Atkinson-Hyperlegible-Bold-102.woff") format("woff"),
+}
+
+@font-face {
+  font-family: "Atkinson Hyperlegible";
+  src:
+    url("\fonts\Atkinson-Hyperlegible-Regular-102.woff") format("woff"),
+    url("\fonts\Atkinson-Hyperlegible-Italic-102.woff") format("woff"),
+    url("\fonts\Atkinson-Hyperlegible-BoldItalic-102.woff") format("woff"),
+    url("\fonts\Atkinson-Hyperlegible-Bold-102.woff") format("woff"),
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "ft88 regular"; 
+}
+
+:root {
+  --primary-hue: 355deg;
+  --primary-saturation: 90%;
+}
+
+.square {
+  aspect-ratio: 1/1;
+  width: 100%;
+}
+
+.game {
+  aspect-ratio: 16/9;
+  padding: 10px;
+  width: 100%;
+}
+
+.video {
+  aspect-ratio: 16/9;
+  width: 100%;
+}
+
+.pdf {
+  aspect-ratio: 17/22;
+  width: 100%;
+}
+"Atkinson-Hyperlegible-Regular-102.woff") format("woff"),
+    url("Atkinson-Hyperlegible-Italic-102.woff") format("woff"),
+    url("Atkinson-Hyperlegible-BoldItalic-102.woff") format("woff"),
+    url("Atkinson-Hyperlegible-Bold-102.woff") format("woff"),
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "ft88 regular"; 
+}
+
+:root {
+  --primary-hue: 355deg;
+  --primary-saturation: 90%;
+}
+
+.square {
+  aspect-ratio: 1/1;
+  width: 100%;
+}
+
+.game {
+  aspect-ratio: 16/9;
+  padding: 10px;
+  width: 100%;
+}
+
+.video {
+  aspect-ratio: 16/9;
+  width: 100%;
+}
+
+.pdf {
+  aspect-ratio: 17/22;
+  width: 100%;
+}
+tkinson-Hyperlegible-Regular-102.woff") format("woff"),
+    url("Atkinson-Hyperlegible-Italic-102.woff") format("woff"),
+    url("Atkinson-Hyperlegible-BoldItalic-102.woff") format("woff"),
+    url("Atkinson-Hyperlegible-Bold-102.woff") format("woff"),
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "ft88 regular"; 
+}
+
+:root {
+  --primary-hue: 355deg;
+  --primary-saturation: 90%;
+}
+
+.square {
+  aspect-ratio: 1/1;
+  width: 100%;
+}
+
+.game {
+  aspect-ratio: 16/9;
+  padding: 10px;
+  width: 100%;
+}
+
+.video {
+  aspect-ratio: 16/9;
+  width: 100%;
+}
+
+.pdf {
+  aspect-ratio: 17/22;
+  width: 100%;
+}
+tkinson-Hyperlegible-Regular-102.woff") format("woff"),
+    url("Atkinson-Hyperlegible-Italic-102.woff") format("woff"),
+    url("Atkinson-Hyperlegible-BoldItalic-102.woff") format("woff"),
+    url("Atkinson-Hyperlegible-Bold-102.woff") format("woff"),
 }
 
 h1, h2, h3, h4, h5, h6 {
