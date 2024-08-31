@@ -28,6 +28,13 @@ layout: wide
         imageStyle="object-fit:cover; aspect-ratio:4/3;"
   >}}
 
+ {{< card
+        link="fim-de-tarde"
+        title="Fim de Tarde"
+        image="/projetos/frozen-blood/capa.png"
+        imageStyle="object-fit:cover; aspect-ratio:4/3;"
+  >}}
+
 {{< /cards >}}
 
 ### Em produção
