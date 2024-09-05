@@ -13,16 +13,16 @@ Gabiru
 {{< hextra/hero-subtitle >}}
 Fazendo jogos, aprendendo sempre.
 {{< /hextra/hero-subtitle >}}
+</br>
 </div>
 
-<div class="hx-mt-6"></div>
 
-</br>
+
 
 {{< hextra/feature-grid >}}
     {{< card
         link="/projetos"
-        image="/projetos/capa.jpg"
+        image="/projetos/lasanha/lasanha.gif"
         title="Projetos"
         subtitle="Coisas que já fiz e outras que ainda estou fazendo."
         icon="cube"
@@ -30,7 +30,7 @@ Fazendo jogos, aprendendo sempre.
     >}}
     {{< card
         link="/textos"
-        image="/textos/capa.jpg"
+        image="https://steamuserimages-a.akamaihd.net/ugc/1849292569949544348/1F79800100F618CC32687D8485C6A2E44CE82B97/"
         title="Textos"
         subtitle="Sobre arte, desenvolvimento de jogos e outras coisas."
         icon="pencil"
@@ -38,9 +38,9 @@ Fazendo jogos, aprendendo sempre.
     >}}
     {{< card
         link="/sobre"
-        image="sobre-capa.jpg"
+        image="https://steamuserimages-a.akamaihd.net/ugc/1000268739970488359/2FEF0DFDC635DB62C45A77FDDA7D79B3C6621C91/?imw=512&imh=512&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
         title="Sobre"
-        subtitle="Conheça um pouco sobre mim."
+        subtitle="Para me conhecer um pouco."
         icon="user"
         imageStyle="object-fit:cover; aspect-ratio:4/3;"
     >}}
