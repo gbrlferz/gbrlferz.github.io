@@ -8,6 +8,13 @@ layout: wide
 {{< cards >}}
 
   {{< card
+        link="https://calembur.itch.io/polinoquil"
+        title="Polinoquil"
+        image="https://img.itch.zone/aW1nLzE4MjU2Mzc4LnBuZw==/315x250%23c/qRBf%2BB.png"
+        imageStyle="object-fit:cover; aspect-ratio:4/3;"
+  >}}
+
+  {{< card
         link="https://calembur.itch.io/joana"
         title="Mãe Joana"
         image="https://img.itch.zone/aW1nLzE3NzQ0OTM1LnBuZw==/360x286%23c/NWMZEZ.png"
