@@ -8,6 +8,13 @@ layout: wide
 {{< cards >}}
 
   {{< card
+        link="https://calembur.itch.io/baigon"
+        title="Detetive Baigon"
+        image="https://img.itch.zone/aW1nLzE4NDQxMjE1LnBuZw==/315x250%23c/tuLR0A.png"
+        imageStyle="object-fit:cover; aspect-ratio:4/3;"
+  >}}
+
+  {{< card
         link="https://calembur.itch.io/polinoquil"
         title="Polinoquil"
         image="https://img.itch.zone/aW1nLzE4MjU2Mzc4LnBuZw==/315x250%23c/qRBf%2BB.png"
