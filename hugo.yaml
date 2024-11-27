@@ -40,11 +40,6 @@ menu:
       weight: 6
       params:
         icon: youtube
-    - name: Instagram
-      weight: 7
-      url: "https://www.instagram.com/gabiruh.art/"
-      params:
-        icon: instagram
     - name: GitHub
       weight: 8
       url: "https://github.com/gbrlferz"
