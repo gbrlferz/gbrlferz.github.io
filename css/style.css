@@ -45,9 +45,10 @@ body {
   background: linear-gradient(0deg, var(--color-bg) 60%, var(--color-primary) 100%) fixed no-repeat;
   display: flex;
   justify-content: center;
-  padding: var(--space-xl);
-  text-align: left;
+  align-items: flex-start;
   min-height: 100vh;
+  padding: var(--space-xl) var(--space-xl) var(--space-xl) var(--space-xl);
+  padding-top: 15vh;
 }
 
 /* ===== TYPOGRAPHY ===== */
