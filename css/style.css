@@ -324,12 +324,26 @@ p {
   opacity: 0;
 }
 
-.profile-image-container:hover .profile-image:not(.pixel-version) {
-  opacity: 0;
+/* Desktop hover behavior */
+@media (hover: hover) {
+  .profile-image-container:hover .profile-image:not(.pixel-version) {
+    opacity: 0;
+  }
+
+  .profile-image-container:hover .pixel-version {
+    opacity: 1;
+  }
 }
 
-.profile-image-container:hover .pixel-version {
-  opacity: 1;
+/* Mobile click behavior */
+@media (hover: none) {
+  .profile-image-container.pixel-mode .profile-image:not(.pixel-version) {
+    opacity: 0;
+  }
+
+  .profile-image-container.pixel-mode .pixel-version {
+    opacity: 1;
+  }
 }
 
 .section-header {
