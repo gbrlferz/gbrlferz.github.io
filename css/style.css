@@ -303,3 +303,28 @@ p {
     border-radius: 3px;
   }
 }
+
+.profile-image-container {
+  position: relative;
+  cursor: pointer;
+  display: block;
+}
+
+.profile-image {
+  transition: opacity 0.3s ease;
+}
+
+.pixel-version {
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+}
+
+.profile-image-container:hover .profile-image:not(.pixel-version) {
+  opacity: 0;
+}
+
+.profile-image-container:hover .pixel-version {
+  opacity: 1;
+}
