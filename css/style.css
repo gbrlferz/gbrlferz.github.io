@@ -48,7 +48,7 @@ body {
   align-items: flex-start;
   min-height: 100vh;
   padding: var(--space-xl) var(--space-xl) var(--space-xl) var(--space-xl);
-  padding-top: 15vh;
+  padding-top: 10vh;
 }
 
 /* ===== TYPOGRAPHY ===== */
@@ -80,16 +80,17 @@ p {
 .centered-box {
   display: flex;
   flex-direction: column;
-  gap: var(--space-xl);
+  gap: var(--space-md);
   width: var(--max-width);
   max-width: 1200px;
+  margin: 0 auto;
 }
 
 .profile-header {
   display: flex;
   align-items: flex-start;
   gap: var(--space-xl);
-  margin-bottom: var(--space-lg);
+  margin-bottom: var(--space-sm);
 }
 
 /* ===== SOCIAL LINKS ===== */
@@ -161,6 +162,7 @@ p {
 .carousel {
   width: 100%;
   padding: var(--space-md) 0;
+  margin-top: var(--space-sm);
   overflow-x: auto;
   overflow-y: hidden;
   white-space: nowrap;
@@ -328,4 +330,42 @@ p {
 
 .profile-image-container:hover .pixel-version {
   opacity: 1;
+}
+
+.section-header {
+  text-align: center;
+  margin: var(--space-md) 0;
+  position: relative;
+}
+
+.section-link {
+  text-decoration: none;
+  color: var(--color-text);
+  transition: color 0.2s ease;
+}
+
+.section-link:hover {
+  color: var(--color-secondary);
+}
+
+.section-header h2 {
+  color: var(--color-text);
+  font-size: 2.2rem;
+  margin: 0;
+  font-family: var(--font-bold);
+  display: inline-block;
+  padding: 0 var(--space-md);
+  position: relative;
+}
+
+.section-header h2::after {
+  content: '';
+  position: absolute;
+  bottom: -8px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 60px;
+  height: 3px;
+  background: var(--color-secondary);
+  border-radius: 2px;
 }
